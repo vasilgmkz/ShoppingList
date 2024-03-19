@@ -11,7 +11,7 @@ public class Shopping {
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("Выберите одну из команд:");
-            System.out.println("1. Добавить товар в список");
+            System.out.println("1. Добавить товар в список!!!!");
             System.out.println("2. Показать список");
             System.out.println("3. Очистить список");
             System.out.println("4. Завершить работу");
